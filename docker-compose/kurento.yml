@@ -27,7 +27,7 @@ services:
     expose:
       - "8888"
     ports:
-      - 8888:8888
+      - 8884:8888
     networks:
       - default
 
